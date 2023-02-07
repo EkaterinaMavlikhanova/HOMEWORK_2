@@ -1,0 +1,5 @@
+C:\Users\Пользователь\Desktop\Обучение\Конспекты geekBrains\ДЗ\31.01. Знакомство с С#\HomeWork_2\homework002\obj\Debug\net6.0\homework002.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Обучение\Конспекты geekBrains\ДЗ\31.01. Знакомство с С#\HomeWork_2\homework002\obj\Debug\net6.0\homework002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Обучение\Конспекты geekBrains\ДЗ\31.01. Знакомство с С#\HomeWork_2\homework002\obj\Debug\net6.0\homework002.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Обучение\Конспекты geekBrains\ДЗ\31.01. Знакомство с С#\HomeWork_2\homework002\obj\Debug\net6.0\homework002.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Обучение\Конспекты geekBrains\ДЗ\31.01. Знакомство с С#\HomeWork_2\homework002\obj\Debug\net6.0\homework002.csproj.CoreCompileInputs.cache
